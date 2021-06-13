@@ -1,0 +1,12 @@
+name: projectargus
+channels:
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - xgboost
+prefix: C:\Users\Esteban\anaconda3\envs\projectargus

@@ -1,0 +1,6 @@
+SELECT ac.Nombre, fnStripTags(HTML_UnEncode(an.Texto)), an.Id_Estado_Activo, ins.Fecha FROM `analisis` AS an
+JOIN activos ac ON
+an.Id_Activo = ac.Id
+JOIN inspecciones ins ON
+ins.Id = an.Id_Inspeccion
+WHERE ac.Id_Zona = 269 AND an.Id_Tipo_Analisis = 1 AND an.Id_Estado_Activo IS NOT NULL

@@ -1,0 +1,11 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+Data/Export/
+Data/Spectrograms/
+Data/Wavelets/
+Data/Spectrograms/class_a
+Data/Spectrograms/class_b
+Data/Wavelets/class_a
+Data/Wavelets/class_b
+Data/Spectrograms/*

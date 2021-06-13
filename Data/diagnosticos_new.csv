@@ -1,0 +1,33 @@
+Activo;Estado;Diagnóstico;Recomendaciones; Fecha
+S1-Ventilador Extracción M1;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador Extracción M19;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador Extracción M37;SEGUIMIENTO;Motor: Activo en buen estado.  Ventilador: Se mantienen los síntomas de una posible degradación de rodamientos. Sin cambios significativos.;Seguir evolución.;13/10/2020
+S1-Ventilador Extracción M40;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M2;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M3;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M6;SEGUIMIENTO;Motor: Se detecta un ascenso en las amplitudes del lado polea, apuntando a una posible progresión en la degradación de rodamientos.  Ventilador: Activo en buen estado.;Realizar sustitución preventiva del motor.;13/10/2020
+S1-Ventilador M5;SEGUIMIENTO;Motor: Se mantienen los síntomas de una posible degradación de rodamientos sin cambios significativos.  Ventilador: Activo en buen estado.;Seguir evolución.;13/10/2020
+S1-Ventilador M8;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M9;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M11;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M12;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M14;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M15;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado. Sin cambios en los síntomas de una posible degradación de rodamientos.;Sin recomendaciones;13/10/2020
+S1-Ventilador M17;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M18;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M20;SEGUIMIENTO;Motor: Activo en buen estado.  Ventilador: Se mantienen los síntomas de una posible degradación de rodamientos.;Seguir evolución.;13/10/2020
+S1-Ventilador M21;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M23;SEGUIMIENTO;Motor: Activo en buen estado.  Ventilador: Degradación mecánica de los rodamientos;Seguir evolución.;13/10/2020
+S1-Ventilador M24;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M26;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M29;SEGUIMIENTO;Motor: Activo en buen estado.  Ventilador: Se detectan síntomas de una degradación de rodamientos.;Seguir evolución.;13/10/2020
+S1-Ventilador M30;SEGUIMIENTO;Motor: Activo en buen estado.  Ventilador: Se detectan síntomas de una posible degradación mecánica de los rodamientos de la cañonera.;Seguir evolución.;13/10/2020
+S1-Ventilador M32;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M27;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M33;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M35;SEGUIMIENTO;Motor: Activo en buen estado.  Ventilador: Se mantienen los síntomas de una posible degradación de rodamientos de la cañonera.;Seguir evolución.;13/10/2020
+S1-Ventilador M36;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M38;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M39;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M41;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020
+S1-Ventilador M42;BUENO;Motor: Activo en buen estado.  Ventilador: Activo en buen estado.;Sin recomendaciones;13/10/2020

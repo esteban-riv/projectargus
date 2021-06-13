@@ -1,0 +1,494 @@
+"Nombre","fnStripTags(HTML_UnEncode(an.Texto))","Id_Estado_Activo","Fecha"
+"S1-Ventilador M2"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador M2"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador M2"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador M2"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador M2"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador M2"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador M2"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-07-08"
+"S1-Ventilador M3"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador M3"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador M3"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador M3"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador M3"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador M3"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador M3"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-07-08"
+"S1-Ventilador M5"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador M5"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador M5"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador M5"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador M5"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador M5"," Motor: Se detectan síntomas de una posible degradación de los rodamientos del motor.
+ Ventilador: Activo en buen estado.","2","2020-04-27"
+"S1-Ventilador M5"," Motor: Se detectan síntomas de una posible degradación de los rodamientos del motor.
+ Ventilador: Activo en buen estado.","2","2020-07-08"
+"S1-Ventilador M6"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador M6"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador M6"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador M6"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador M6"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador M6"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador M6"," Motor: Degradación incipiente del rodamiento lado acoplado.
+ Ventilador: Activo en buen estado.","1","2020-07-08"
+"S1-Ventilador M8"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador M8"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador M8"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador M8"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador M8"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador M8"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador M8"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-07-08"
+"S1-Ventilador M9"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador M9"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador M9"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador M9"," Motor: Activo en buen estado.
+ Ventilador: Se detectan síntomas de una posible degradación del rodamiento lado polea.","2","2019-07-15"
+"S1-Ventilador M9"," Motor: Activo en buen estado.
+ Ventilador: Se mantienen los síntomas de una posible degradación del rodamiento lado opuesto a polea.","2","2019-12-03"
+"S1-Ventilador M9"," Motor: Activo en buen estado.
+ Ventilador: Se mantienen los síntomas de una posible degradación del rodamiento lado opuesto a polea.","2","2020-02-10"
+"S1-Ventilador M9"," Motor: Activo en buen estado.
+ Ventilador: Degradación mecánica del rodamiento lado ventilador.","2","2020-04-27"
+"S1-Ventilador M9"," Motor: Activo en buen estado.
+ Ventilador: Degradación mecánica del rodamiento lado ventilador.","1","2020-07-08"
+"S1-Ventilador M11"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador M11"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador M11"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador M11"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador M11"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador M11"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador M11"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-07-08"
+"S1-Ventilador M12"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador M12"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador M12"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador M12"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador M12"," Motor: Degradación mecánica avanzada del rodamiento lado acoplado.
+ Ventilador: Activo en buen estado.","3","2020-02-10"
+"S1-Ventilador M12"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador M12"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-07-08"
+"S1-Ventilador M14"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador M14"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador M14"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador M14"," Motor: Se detectan síntomas de una posible degradación del rodamiento lado opuesto a polea. No se descarta que exista un roce entre ventilador y carcasa del motor.
+ Ventilador: Activo en buen estado.","3","2019-07-15"
+"S1-Ventilador M14"," Motor: Descenso de los valores anteriormente detectados.
+ Ventilador: Activo en buen estado.","2","2020-02-10"
+"S1-Ventilador M14"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador M14"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-07-08"
+"S1-Ventilador M15"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador M15"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador M15"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador M15"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador M15"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador M15"," Motor: Activo en buen estado.
+ Ventilador: Degradación mecánica incipiente en el lado ventilador.","2","2020-04-27"
+"S1-Ventilador M15"," Motor: Activo en buen estado.
+ Ventilador: Degradación mecánica incipiente en el lado ventilador.","1","2020-07-08"
+"S1-Ventilador M17"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador M17"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador M17"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador M17"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador M17"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador M17"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador M17"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-07-08"
+"S1-Ventilador M18"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador M18"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador M18"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador M18"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador M18"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador M18"," Motor: Activo en buen estado.
+ Ventilador: Degradación mecánica inicial de los rodamientos.","2","2020-04-27"
+"S1-Ventilador M18"," Motor: Activo en buen estado.
+ Ventilador: Degradación mecánica inicial de los rodamientos.","1","2020-07-08"
+"S1-Ventilador M20"," Motor: Activo en buen estado. Se detectan indicios de unas condiciones desfavorables de alineación. No se descarta que una tensión no apropiada de las correas esté afectando en la medida.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador M20"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2018-06-11"
+"S1-Ventilador M20"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador M20"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador M20"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador M20"," Motor: Activo en buen estado. 
+ Ventilador: Se mantienen las amplitudes de las medidas en aceleración asociadas a una degradación de rodamientos.","2","2019-12-03"
+"S1-Ventilador M20"," Motor: Activo en buen estado. 
+ Ventilador: Se mantienen las amplitudes de las medidas en aceleración asociadas a una degradación de rodamientos.","2","2020-02-10"
+"S1-Ventilador M20"," Motor: Activo en buen estado. 
+ Ventilador: Aumento moderado de la degradación de los rodamientos.","2","2020-04-27"
+"S1-Ventilador M20"," Motor: Activo en buen estado. 
+ Ventilador: Degradación de las condiciones mecánicas de los rodamientos.","2","2020-07-08"
+"S1-Ventilador M21"," Motor: Activo en buen estado. Se detectan indicios de unas condiciones desfavorables de alineación.
+ Ventilador: Activo en buen estado. ","1","2018-01-23"
+"S1-Ventilador M21"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. ","1","2018-06-11"
+"S1-Ventilador M21"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. Se mantiene el comportamiento de pasadas inspecciones.","1","2018-07-16"
+"S1-Ventilador M21"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. ","1","2019-02-18"
+"S1-Ventilador M21"," Motor: Activo en buen estado. Se detectan síntomas de holguras en el rodamiento lado libre del motor.
+ Ventilador: Activo en buen estado. ","1","2019-07-15"
+"S1-Ventilador M21"," Motor: Activo en buen estado. 
+ Ventilador: Degradación de las condiciones mecánicas de los rodamientos.","3","2020-02-10"
+"S1-Ventilador M21"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado. ","1","2020-04-27"
+"S1-Ventilador M21"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado. ","1","2020-07-08"
+"S1-Ventilador M23"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador M23"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador M23"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador M23"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador M23"," Motor: Activo en buen estado.
+ Ventilador: Degradación mecánica de los rodamientos","2","2020-02-10"
+"S1-Ventilador M23"," Motor: Activo en buen estado.
+ Ventilador: Degradación mecánica de los rodamientos","2","2020-04-27"
+"S1-Ventilador M23"," Motor: Activo en buen estado.
+ Ventilador: Degradación mecánica de los rodamientos","2","2020-07-08"
+"S1-Ventilador M24"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador M24"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador M24"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador M24"," Motor: Activo en buen estado.
+ Ventilador: Se detectan síntomas de una posible degradación de rodamientos, especialmente en el lado opuesto a polea.","2","2019-07-15"
+"S1-Ventilador M24"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-12-03"
+"S1-Ventilador M24"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador M24"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador M24"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-07-08"
+"S1-Ventilador M26"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. Se detectan indicios de unas condiciones desfavorables de alineación, de tensiones de correas o equilibrado. No se descarta que una amplificación estructural esté influyendo en la medida.","1","2018-01-23"
+"S1-Ventilador M26"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. Se detectan indicios de unas posibles condiciones particulares de operación no descartándose que una desalineación dinámica esté influyendo en el comportamiento.","1","2018-06-11"
+"S1-Ventilador M26"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. Se mantiene el comportamiento de pasadas inspecciones.","1","2018-07-16"
+"S1-Ventilador M26"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador M26"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador M26"," Ventilador: Posible degradación de los rodamientos de la cañonera.","3","2019-12-03"
+"S1-Ventilador M26"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","2","2020-02-10"
+"S1-Ventilador M26"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador M26"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2020-07-08"
+"S1-Ventilador M27"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado, aunque se detectan indicios de unas condiciones desfavorables de alineación y/o equilibrado. No se descarta que una amplificación estructural esté influyendo en la medida. Asimismo hay indicios de una degradación mecánica de rodamientos.","2","2018-01-23"
+"S1-Ventilador M27"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. Se detectan indicios de unas posibles condiciones particulares de operación no descartándose que una desalineación dinámica esté influyendo en el comportamiento. Asimismo hay indicios de una degradación mecánica de rodamientos.","2","2018-06-11"
+"S1-Ventilador M27"," Motor: Activo en buen estado. 
+ Ventilador: Se mantienen los indicios de una posible degradación de rodamientos. ","2","2018-07-16"
+"S1-Ventilador M27"," Motor: Activo en buen estado. 
+ Ventilador: Se mantienen los indicios de una posible degradación de rodamientos. ","2","2018-09-03"
+"S1-Ventilador M27"," Motor: Activo en buen estado. 
+ Ventilador: Se mantienen los indicios de una posible degradación de rodamientos. Existe una mejoría en el comportamiento.","1","2019-02-18"
+"S1-Ventilador M27"," Motor: Activo en buen estado. 
+ Ventilador: Se mantienen los indicios de una posible degradación de rodamientos. Existe una un aumento de la amplitud de los indicadores.","3","2019-07-15"
+"S1-Ventilador M27"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. ","1","2020-02-10"
+"S1-Ventilador M27"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. ","2","2020-04-27"
+"S1-Ventilador M27"," Motor: Activo en buen estado. 
+ Ventilador: Degradación mecánica de las condiciones mecánicas de los rodamientos.","3","2020-07-08"
+"S1-Ventilador M29"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado. Se detectan indicios de unas condiciones desfavorables de desequilibrio, desalineación de poleas o incorrecta tensión de correas. No se descarta que una amplificación estructural esté influyendo en la medida.","1","2018-01-23"
+"S1-Ventilador M29"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado. Activo en buen estado. Se detectan indicios de unas posibles condiciones particulares de operación no descartándose que una desalineación dinámica esté influyendo en el comportamiento. Se detectan síntomas de una degradación incipiente de rodamientos.","2","2018-06-11"
+"S1-Ventilador M29"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado. Se mantiene el comportamiento de pasadas inspecciones.","1","2018-07-16"
+"S1-Ventilador M29"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado. Se mantiene el comportamiento de pasadas inspecciones.","1","2019-02-18"
+"S1-Ventilador M29"," Motor: Se detectan síntomas de holguras en el lado libre del motor.
+ Ventilador: Activo en buen estado. Se mantiene el comportamiento de pasadas inspecciones.","2","2019-07-15"
+"S1-Ventilador M29"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado. Se mantiene el comportamiento de pasadas inspecciones posiblemente asociado a una amplificación estructural","1","2019-12-03"
+"S1-Ventilador M29"," Motor: Activo en buen estado.
+ Ventilador: Degradación incipiente de las condiciones mecánicas.","2","2020-02-10"
+"S1-Ventilador M29"," Motor: Activo en buen estado.
+ Ventilador: Se detectan síntomas de una degradación de rodamientos.","3","2020-04-27"
+"S1-Ventilador M29"," Motor: Activo en buen estado.
+ Ventilador: Se detectan síntomas de una degradación de rodamientos.","2","2020-07-08"
+"S1-Ventilador M30"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. Se detectan indicios de unas condiciones desfavorables de alineación y/o equilibrado. No se descarta que una amplificación estructural esté influyendo en la medida.","1","2018-01-23"
+"S1-Ventilador M30"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. Se detectan indicios de unas posibles condiciones particulares de operación no descartándose que una desalineación dinámica esté influyendo en el comportamiento. Asimismo hay indicios de una degradación mecánica de rodamientos.","2","2018-06-11"
+"S1-Ventilador M30"," Motor: Activo en buen estado. 
+ Ventilador: Se mantienen los indicios de una degradación mecánica de rodamientos.","2","2018-07-16"
+"S1-Ventilador M30"," Motor: Activo en buen estado. 
+ Ventilador: Se mantienen los indicios de una degradación mecánica de rodamientos.","2","2019-02-18"
+"S1-Ventilador M30"," Motor: Activo en buen estado. 
+ Ventilador: Existe un leve aumento de las amplitudes de las medidas en aceleración, asociadas a una degradación de rodamientos.","2","2019-06-17"
+"S1-Ventilador M30"," Motor: Activo en buen estado. 
+ Ventilador: Se mantienen las amplitudes de las medidas en aceleración asociadas a una degradación de rodamientos.","2","2019-07-15"
+"S1-Ventilador M30"," Motor: Activo en buen estado. 
+ Ventilador: Se mantienen las amplitudes de las medidas en aceleración asociadas a una degradación de rodamientos.","2","2019-12-03"
+"S1-Ventilador M30"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador M30"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador M30"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2020-07-08"
+"S1-Ventilador M32"," Motor: Activo en buen estado. Se detectan indicios de unas condiciones desfavorables de alineación.
+ Ventilador: Activo en buen estado. ","1","2018-01-23"
+"S1-Ventilador M32"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. Se detectan indicios de unas posibles condiciones particulares de operación no descartándose que una desalineación dinámica esté influyendo en el comportamiento.","1","2018-06-11"
+"S1-Ventilador M32","  Motor: Activo en buen estado.
+ Ventilador: Se detectan síntomas de una posible degradación de rodamientos.","2","2018-07-16"
+"S1-Ventilador M32","  Motor: Activo en buen estado.
+ Ventilador: Se detectan síntomas de una posible degradación de rodamientos.","2","2018-09-03"
+"S1-Ventilador M32","  Motor: Activo en buen estado.
+ Ventilador: Se detectan síntomas de una posible degradación de rodamientos. Se establece el estado como BUENO.","1","2019-02-18"
+"S1-Ventilador M32","  Motor: Activo en buen estado.
+ Ventilador: Se detectan síntomas de una posible degradación de rodamientos, existe un aumento de las amplitudes.","3","2019-07-15"
+"S1-Ventilador M32","  Motor: Activo en buen estado.
+ Ventilador: Se detectan síntomas de una posible degradación de rodamientos, existe un aumento de las amplitudes.","3","2019-12-03"
+"S1-Ventilador M32"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador M32"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador M32"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2020-07-08"
+"S1-Ventilador M33"," Motor: Activo en buen estado, aunque detectan indicios de unas condiciones desfavorables de alineación.
+ Ventilador: Activo en buen estado.","2","2018-01-23"
+"S1-Ventilador M33"," Ventilador: Activo en buen estado. Se detectan indicios de unas posibles condiciones particulares de operación no descartándose que una desalineación dinámica esté influyendo en el comportamiento.
+ ","2","2018-06-11"
+"S1-Ventilador M33"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. Se mantiene el comportamiento de la pasada inspección.","1","2018-07-16"
+"S1-Ventilador M33"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. Se mantiene el comportamiento de la pasada inspección.","1","2019-02-18"
+"S1-Ventilador M33"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. Se mantiene el comportamiento de la pasada inspección.","1","2019-07-15"
+"S1-Ventilador M33"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador M33"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador M33"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2020-07-08"
+"S1-Ventilador M35"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. Se detectan indicios de unas condiciones desfavorables de alineación y/o equilibrado. No se descarta que una amplificación estructural esté influyendo en la medida.","1","2018-01-23"
+"S1-Ventilador M35"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. Se detectan indicios de unas posibles condiciones particulares de operación no descartándose que una desalineación dinámica esté influyendo en el comportamiento.","2","2018-06-11"
+"S1-Ventilador M35"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. Se detectan indicios de una posible degradación de rodamientos.","1","2018-07-16"
+"S1-Ventilador M35"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. Se detectan indicios de una posible degradación de rodamientos.","1","2019-02-18"
+"S1-Ventilador M35"," Motor: Activo en buen estado. 
+ Ventilador: Se detectan síntomas de una degradación significativa de rodamientos.","3","2019-07-15"
+"S1-Ventilador M35"," Motor: Activo en buen estado. 
+ Ventilador: Descienden los valores asociados a la actividad de los rodamientos.","2","2020-02-10"
+"S1-Ventilador M35"," Motor: Activo en buen estado. 
+ Ventilador: Descienden los valores asociados a la actividad de los rodamientos.","2","2020-04-27"
+"S1-Ventilador M35"," Motor: Activo en buen estado. 
+ Ventilador: Degradación de las condiciones mecánicas de los rodamientos.","2","2020-07-08"
+"S1-Ventilador M36"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado, aunque se detectan indicios de unas condiciones desfavorables de alineación y/o equilibrado. No se descarta que una amplificación estructural esté influyendo en la medida. Existen indicios de una degradación mecánica de rodamientos.","2","2018-01-23"
+"S1-Ventilador M36"," Ventilador: Se detecta un posible avance en la degradación de rodamientos detectada en la anterior inspección.","2","2018-03-12"
+"S1-Ventilador M36"," Ventilador: Si el ventilador presenta rodamientos de tipo cónico y se ha efectuado una reparación a corto plazo es posible que existan holguras derivadas de la instalación del rodamiento.","1","2018-06-11"
+"S1-Ventilador M36"," Ventilador: Si el ventilador presenta rodamientos de tipo cónico y se ha efectuado una reparación a corto plazo es posible que existan holguras derivadas de la instalación del rodamiento.","2","2018-07-16"
+"S1-Ventilador M36"," Ventilador: Las holguras presentadas en la anterior inspección se mantienen, existiendo indicios de una progresión en las mismas.","2","2018-09-03"
+"S1-Ventilador M36"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado. Se detecta una mejoría en el comportamiento.","1","2019-02-18"
+"S1-Ventilador M36"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador M36"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador M36"," Motor: Activo en buen estado.
+ Ventilador: Se detectan síntomas de holguras en lado polea de ventilador.","2","2020-04-27"
+"S1-Ventilador M36"," Motor: Activo en buen estado.
+ Ventilador: Se detectan síntomas de holguras en lado polea de ventilador.","1","2020-07-08"
+"S1-Ventilador M38"," Motor: Activo en buen estado. Se detectan indicios de unas condiciones desfavorables de alineación e incluso una tensión inadecuada en las correas.
+ Ventilador: Activo en buen estado. ","1","2018-01-23"
+"S1-Ventilador M38"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. ","1","2018-07-16"
+"S1-Ventilador M38"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. ","1","2019-02-18"
+"S1-Ventilador M38"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. ","1","2019-07-15"
+"S1-Ventilador M38"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.  Se mantienen los niveles por encima de la normalidad posiblemente motivado a una condición de amplificación estructural.","1","2019-12-03"
+"S1-Ventilador M38"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador M38"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador M38"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","1","2020-07-08"
+"S1-Ventilador M39"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado, aunque se detectan indicios de una degradación incipiente de rodamientos.","2","2018-01-23"
+"S1-Ventilador M39"," Ventilador: Se detecta síntomas de un avance en la degradación de los rodamientos del ventilador.","2","2018-03-12"
+"S1-Ventilador M39"," Ventilador: Se detecta síntomas de un avance en la degradación de los rodamientos del ventilador.","2","2018-06-11"
+"S1-Ventilador M39"," Ventilador: Se detecta síntomas de un avance en la degradación de los rodamientos del ventilador.","3","2018-07-16"
+"S1-Ventilador M39"," Ventilador: Se detecta síntomas de un avance en la degradación de los rodamientos del ventilador.","3","2018-09-03"
+"S1-Ventilador M39"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador M39"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador M39"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador M39"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador M39"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-07-08"
+"S1-Ventilador M41"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador M41"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador M41"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador M41"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-03-18"
+"S1-Ventilador M41"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador M41"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador M41"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador M42"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador M42"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado. Se detectan indicios de una posible degradación de rodamientos.","1","2018-07-16"
+"S1-Ventilador M42"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado. Se detectan indicios de una posible degradación de rodamientos.","1","2019-02-18"
+"S1-Ventilador M42"," Motor: Activo en buen estado. 
+ Ventilador: Se mantienen las amplitudes de las medidas en aceleración asociadas a una degradación de rodamientos.","1","2019-07-15"
+"S1-Ventilador M42"," Motor: Activo en buen estado. 
+ Ventilador: Se mantienen las amplitudes de las medidas en aceleración asociadas a una degradación de rodamientos.","2","2019-12-03"
+"S1-Ventilador M42"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado.","2","2020-02-10"
+"S1-Ventilador M42"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador M42"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-07-08"
+"S1-Ventilador Extracción M40"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador Extracción M40"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador Extracción M40"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador Extracción M40"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador Extracción M40"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador Extracción M40"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador Extracción M40"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-07-08"
+"S1-Ventilador Extracción M37"," Conjunto: Se detectan indicios de unas condiciones desfavorables de alineación de poleas.","2","2018-01-23"
+"S1-Ventilador Extracción M37"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. Se detectan indicios de unas posibles condiciones particulares de operación no descartándose que una desalineación dinámica esté influyendo en el comportamiento.","1","2018-06-11"
+"S1-Ventilador Extracción M37"," Ventilador: Se detectan indicios de unas condiciones desfavorables de alineación dinámica. Existen indicios de una posible degradación de los rodamientos del ventilador.","2","2018-07-16"
+"S1-Ventilador Extracción M37"," Ventilador:Existen indicios de una posible degradación de los rodamientos del ventilador.","2","2018-09-03"
+"S1-Ventilador Extracción M37"," Motor: Activo en buen estado. 
+ Ventilador: Activo en buen estado. Se mantienen los síntomas de una posible degradación de rodamientos.","1","2019-02-18"
+"S1-Ventilador Extracción M37"," Ventilador:Existen indicios de una posible degradación de los rodamientos del ventilador.","2","2019-07-15"
+"S1-Ventilador Extracción M37"," Motor: Activo en buen estado. 
+ Ventilador: Se mantienen los síntomas de una posible degradación de rodamientos.","2","2020-02-10"
+"S1-Ventilador Extracción M37"," Motor: Activo en buen estado. 
+ Ventilador: Se mantienen los síntomas de una posible degradación de rodamientos.","2","2020-04-27"
+"S1-Ventilador Extracción M37"," Motor: Activo en buen estado. 
+ Ventilador: Se mantienen los síntomas de una posible degradación de rodamientos.","2","2020-07-08"
+"S1-Ventilador Extracción M19"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador Extracción M19"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador Extracción M19"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-02-18"
+"S1-Ventilador Extracción M19"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador Extracción M19"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador Extracción M19"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador Extracción M19"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-07-08"
+"S1-Ventilador Extracción M1"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-01-23"
+"S1-Ventilador Extracción M1"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2018-07-16"
+"S1-Ventilador Extracción M1"," Motor: Activo en buen estado.
+ Ventilador: Se detectan síntomas de una posible degradación de rodamientos.","3","2019-02-18"
+"S1-Ventilador Extracción M1"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2019-07-15"
+"S1-Ventilador Extracción M1"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-02-10"
+"S1-Ventilador Extracción M1"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-04-27"
+"S1-Ventilador Extracción M1"," Motor: Activo en buen estado.
+ Ventilador: Activo en buen estado.","1","2020-07-08"
