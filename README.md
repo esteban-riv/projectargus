@@ -46,7 +46,15 @@ Every S** folder represent a machine folder. In this folder must be subfolder fo
 
 ### Notebook and Scripts
 
-To get into ML project you must run the "Project Argus.ipynb" file. This file load some scripts created for data manipulation that are included in Scripts folder. There is nothing more to do than run the file and follow the instructions in the notebook.
+To get into ML project you must run the "Project Argus.ipynb" file. This file load some scripts created for data manipulation that are included in Scripts folder. There is nothing more to do than run the file and follow the instructions in the notebook. This notebook will export three files to later be used in "Model Application.ipynb". The files are:
+
+- "Data/diagnosis_2021.csv": This file contains data with no diagnosis.
+- "Model/ct.pkl": Column Transformer file to apply to this data.
+- "Model/gcbmodel.sav": Gradient Boost Classifier model to apply.
+
+The notebooK "Model Application.ipynb" will load and apply this objects for predicting the new labels. A .csv will be exported NAME OF THE FILE to be load to de frontend.
+
+
 
 
 ### Frontend
