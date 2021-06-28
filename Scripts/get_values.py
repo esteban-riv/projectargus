@@ -152,11 +152,11 @@ def get_values(index, machines, points, files, df_mms_params, df_acc_params, df_
                 df_spec_acc_params = df_spec_acc_params.append(spec_acc_row, ignore_index=True)
             
             try:
-                df_spec_acc_params.to_csv('Data/df_spec_acc_params.csv', mode='a', header=False, index=False)
+                df_spec_acc_params.to_csv('Data/spec_acc_params.csv', mode='a', header=False, index=False)
             except:
                 time.sleep(0.01)                    
                 print("Error al escribir")
-                df_spec_acc_params.to_csv('Data/df_spec_acc_params.csv', mode='a', header=False, index=False)
+                df_spec_acc_params.to_csv('Data/spec_acc_params.csv', mode='a', header=False, index=False)
             
             df_spec_acc_params = df_spec_acc_params.iloc[0:0]
             

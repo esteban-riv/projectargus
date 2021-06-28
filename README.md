@@ -16,7 +16,7 @@ Once you have pulled the repo from github you must have the next folder structur
 +-- Project Argus.ipynb<br>
 +-- Spectrogram Generator.ipynb<br>
 +-- README.md<br>
-+-- resultados.csv<br>
++-- results.csv<br>
 +-- diagnosis.csv<br>
 
 
