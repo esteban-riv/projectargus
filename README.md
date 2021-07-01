@@ -24,7 +24,7 @@ Once you have pulled the repo from github you must have the next folder structur
 
 ### Data Structure
 
-For run machine learning part of the project first data mus be downloaded from the next link:
+For run machine learning part of the project first data must be downloaded from the next link:
 
 LINK TO DATA
 
