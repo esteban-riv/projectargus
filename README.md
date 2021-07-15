@@ -47,18 +47,14 @@ Every S** folder represent a machine folder. In this folder must be subfolder fo
 For Deep Learning the next folders are used in Google Drive.
 
 
-
 <a href="https://drive.google.com/drive/folders/1UUXI81gcGE8jYJLylK4ib0qMHWKt-ak-?usp=sharing">Spectrograms test and validation</a>
 
+<a href="https://drive.google.com/drive/folders/1oKHiWTIrMz_c7KEMzNgR9VE57Hd96EGB?usp=sharing">Spectrograms prediction</a>
 
-<a href="
-https://drive.google.com/drive/folders/1oKHiWTIrMz_c7KEMzNgR9VE57Hd96EGB?usp=sharing">Spectrograms prediction</a>
+<a href="https://drive.google.com/drive/folders/11WAV4-qIz2fw3CeAq4kVfkFvq4FUtRaO?usp=sharing">Power Spectrums test and validation</a>
 
-<a href="
-https://drive.google.com/drive/folders/11WAV4-qIz2fw3CeAq4kVfkFvq4FUtRaO?usp=sharing">Power Spectrums test and validation</a>
+<a href="https://drive.google.com/drive/folders/1FxvEB5Qg3mtZ0VrI8UzAOGxRvcoT_mY1?usp=sharing">Power Spectrums prediction</a>
 
-<a href="
-https://drive.google.com/drive/folders/1FxvEB5Qg3mtZ0VrI8UzAOGxRvcoT_mY1?usp=sharing">Power Spectrums prediction</a>
 
 You must add it to your Drive and open them in Colab selecting the right path. Test and validation folders have two subfolders, 'class_a' and 'class_b'.
 
@@ -67,11 +63,20 @@ You must add it to your Drive and open them in Colab selecting the right path. T
 
 To get into ML project you must run the "Project Argus.ipynb" file. This file load some scripts created for data manipulation that are included in Scripts folder. There is nothing more to do than run the file and follow the instructions in the notebook. This notebook will export three files to later be used in "Model Application.ipynb". The files are:
 
-- "Data/diagnosis_2021.csv": This file contains data with no diagnosis.
+- "Data/diagnosis_2021.csv": This file contains data with no diagnosis to be predicted.
 - "Model/ct.pkl": Column Transformer file to apply to this data.
 - "Model/gcbmodel.sav": Gradient Boost Classifier model to apply.
 
-The notebook "Model Application.ipynb" will load and apply this objects for predicting the new labels. A .csv will be exported NAME OF THE FILE to be load to de frontend.
+The notebook "Model Application.ipynb" will load and apply this objects for predicting the new labels. The results of this notekooks are two .csv files that are used in the frontend.
+
+For Deep Learning two Colab files are used:
+
+
+<a href="https://colab.research.google.com/drive/1hP9gDx5AkAymNtzz9ZdeJgjlLtmZ0C-p?usp=sharing">Spectograms</a>
+
+<a href="https://colab.research.google.com/drive/1aTTFh2tkkua5KA70EFGudJkS_GjBCY99?usp=sharing">Power Spectrums</a>
+
+You must have the previously mentioned Google Drive folders added to your drive.
 
 
 
