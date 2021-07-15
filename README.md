@@ -20,18 +20,19 @@ Once you have pulled the repo from github you must have the next folder structur
 +-- diagnosis.csv<br>
 
 
-## Machine Learning
 
 ### Data Structure
 
 For run machine learning part of the project first data must be downloaded from the next link:
 
-LINK TO DATA
+<a href="https://teromanager2.s3.us-west-2.amazonaws.com/projectargus/Datos+ML.zip">Data</a>
 
 Data must be downloaded to Data folder. The final Data structure must be like that:
 
 +--Data<br>
 &ensp; +-- Export<br>
+&ensp;&ensp; +-- Zona 2 S-1 [1469]<br>
+&ensp;&ensp; +-- Zona 2 S-1 [1469]<br>
 &ensp;&ensp; +-- Zona 2 S-1 [1469]<br>
 &ensp;&ensp;&ensp; +-- S1-M01 [1991]<br>
 &ensp;&ensp;&ensp; +-- S1-M02 [1650]<br>
@@ -43,6 +44,24 @@ Data must be downloaded to Data folder. The final Data structure must be like th
 
 Every S** folder represent a machine folder. In this folder must be subfolder for every measure point and type of measure. Most important thing is to download Data in the correct folder.
 
+For Deep Learning the next folders are used in Google Drive.
+
+
+
+<a href="https://drive.google.com/drive/folders/1UUXI81gcGE8jYJLylK4ib0qMHWKt-ak-?usp=sharing">Spectrograms test and validation</a>
+
+
+<a href="
+https://drive.google.com/drive/folders/1oKHiWTIrMz_c7KEMzNgR9VE57Hd96EGB?usp=sharing">Spectrograms prediction</a>
+
+<a href="
+https://drive.google.com/drive/folders/11WAV4-qIz2fw3CeAq4kVfkFvq4FUtRaO?usp=sharing">Power Spectrums test and validation</a>
+
+<a href="
+https://drive.google.com/drive/folders/1FxvEB5Qg3mtZ0VrI8UzAOGxRvcoT_mY1?usp=sharing">Power Spectrums prediction</a>
+
+You must add it to your Drive and open them in Colab selecting the right path. Test and validation folders have two subfolders, 'class_a' and 'class_b'.
+
 
 ### Notebook and Scripts
 
@@ -52,17 +71,25 @@ To get into ML project you must run the "Project Argus.ipynb" file. This file lo
 - "Model/ct.pkl": Column Transformer file to apply to this data.
 - "Model/gcbmodel.sav": Gradient Boost Classifier model to apply.
 
-The notebooK "Model Application.ipynb" will load and apply this objects for predicting the new labels. A .csv will be exported NAME OF THE FILE to be load to de frontend.
+The notebook "Model Application.ipynb" will load and apply this objects for predicting the new labels. A .csv will be exported NAME OF THE FILE to be load to de frontend.
 
 
 
 
-### Frontend
+### Frontend and Project Report
 
-The frontend is in the <a href="https://projectargus.herokuapp.com/">Project Webpage</a>. Just go to the Machine Learning Result section to visualize the Dashboard.
+The frontend is in the <a href="https://projectargus.herokuapp.com/">Project Webpage</a>. This frontend contains the project report and the access to results and colab's notebooks. You must use the following credentials to access the content:
+
+Username: kshool <br>
+Pass: TVqcnvqfFesmmk4
+
+
+This is a snapshot of the project dashboard:
 
 <img src="https://teromanager2.s3-us-west-2.amazonaws.com/projectargus/argus_front_ml.JPG">
 
+<br>
+Project Report is in the webpage, you can access to it directly from the home page.
 
 
 
