@@ -1,23 +1,37 @@
 # Project Argus
 
+Repository of Project Argus, a Machine Learning and Deep Learning predictor of industrial machine health.
 
-You can access to project webpage in:
 
-<a href="https://projectargus.herokuapp.com/">Project Argus</a>
+## Frontend and Project Report
 
+The frontend and project report are in the <a href="https://projectargus.herokuapp.com/">Project Webpage</a>. This frontend contains the project report and the access to results and colab's notebooks. You must use the following credentials to access the content:
+
+Username: kshool <br>
+Pass: TVqcnvqfFesmmk4
+
+
+This is a snapshot of the project dashboard:
+
+<img src="https://teromanager2.s3-us-west-2.amazonaws.com/projectargus/argus_front_ml.JPG">
+
+<br>
 
 ## Project Structure
 
 Once you have pulled the repo from github you must have the next folder structure:
 
 +-- Data<br>
++-- Model<br>
++-- Results<br>
 +-- Scripts<br>
-+-- projectargus.yml<br>
++-- environment.yml<br>
++-- Model Application.ipynb<br>
 +-- Project Argus.ipynb<br>
 +-- Spectrogram Generator.ipynb<br>
 +-- README.md<br>
-+-- results.csv<br>
-+-- diagnosis.csv<br>
+
+You must create a conda environment with the file environment.yml.
 
 
 
@@ -25,7 +39,7 @@ Once you have pulled the repo from github you must have the next folder structur
 
 For run machine learning part of the project first data must be downloaded from the next link:
 
-<a href="https://teromanager2.s3.us-west-2.amazonaws.com/projectargus/Datos+ML.zip">Data</a>
+<a href="https://teromanager2.s3.us-west-2.amazonaws.com/projectargus/Datos+ML.zip">Machine Learning Data</a>
 
 Data must be downloaded to Data folder. The final Data structure must be like that:
 
@@ -59,7 +73,7 @@ For Deep Learning the next folders are used in Google Drive.
 You must add it to your Drive and open them in Colab selecting the right path. Test and validation folders have two subfolders, 'class_a' and 'class_b'.
 
 
-### Notebook and Scripts
+## Notebook and Scripts
 
 To get into ML project you must run the "Project Argus.ipynb" file. This file load some scripts created for data manipulation that are included in Scripts folder. There is nothing more to do than run the file and follow the instructions in the notebook. This notebook will export three files to later be used in "Model Application.ipynb". The files are:
 
@@ -81,20 +95,8 @@ You must have the previously mentioned Google Drive folders added to your drive.
 
 
 
-### Frontend and Project Report
-
-The frontend is in the <a href="https://projectargus.herokuapp.com/">Project Webpage</a>. This frontend contains the project report and the access to results and colab's notebooks. You must use the following credentials to access the content:
-
-Username: kshool <br>
-Pass: TVqcnvqfFesmmk4
 
 
-This is a snapshot of the project dashboard:
-
-<img src="https://teromanager2.s3-us-west-2.amazonaws.com/projectargus/argus_front_ml.JPG">
-
-<br>
-Project Report is in the webpage, you can access to it directly from the home page.
 
 
 
