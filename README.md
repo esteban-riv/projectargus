@@ -1,6 +1,6 @@
 # Project Argus
 
-Repository of Project Argus, a Machine Learning and Deep Learning predictor of industrial machine health.
+Repository of Project Argus, a Machine Learning and Deep Learning predictor of industrial machinery health.
 
 
 ## Frontend and Project Report
@@ -10,6 +10,7 @@ The frontend and project report are in the <a href="https://projectargus.herokua
 Username: kshool <br>
 Pass: TVqcnvqfFesmmk4
 
+The webpage uses a free heroku dyno, so it may takes seconds to wake up.
 
 This is a snapshot of the project dashboard:
 
@@ -73,7 +74,7 @@ For Deep Learning the next folders are used in Google Drive.
 You must add it to your Drive and open them in Colab selecting the right path. Test and validation folders have two subfolders, 'class_a' and 'class_b'.
 
 
-## Notebook and Scripts
+## Notebooks and Scripts
 
 To get into ML project you must run the "Project Argus.ipynb" file. This file load some scripts created for data manipulation that are included in Scripts folder. There is nothing more to do than run the file and follow the instructions in the notebook. This notebook will export three files to later be used in "Model Application.ipynb". The files are:
 
@@ -83,7 +84,9 @@ To get into ML project you must run the "Project Argus.ipynb" file. This file lo
 
 The notebook "Model Application.ipynb" will load and apply this objects for predicting the new labels. The results of this notekooks are two .csv files that are used in the frontend.
 
-For Deep Learning two Colab files are used:
+For Deep Learning we have the notebook "Spec Generator.ipynb" with which Power Spectrum and Spectograms can be generated from exported data from Vibration Analysis software. The data result of this transformation was provided in the previous section of this file.
+
+To get into Deep Learning models two Colab files are used:
 
 
 <a href="https://colab.research.google.com/drive/1hP9gDx5AkAymNtzz9ZdeJgjlLtmZ0C-p?usp=sharing">Spectograms</a>
