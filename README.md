@@ -47,8 +47,6 @@ Data must be downloaded to Data folder. The final Data structure must be like th
 +--Data<br>
 &ensp; +-- Export<br>
 &ensp;&ensp; +-- Zona 2 S-1 [1469]<br>
-&ensp;&ensp; +-- Zona 2 S-1 [1469]<br>
-&ensp;&ensp; +-- Zona 2 S-1 [1469]<br>
 &ensp;&ensp;&ensp; +-- S1-M01 [1991]<br>
 &ensp;&ensp;&ensp; +-- S1-M02 [1650]<br>
 &ensp;&ensp;&ensp; +-- S1-M03 [1661]<br>
@@ -57,7 +55,7 @@ Data must be downloaded to Data folder. The final Data structure must be like th
 &ensp;&ensp; +-- Zona 2 S-3 [235]<br>
 &ensp;&ensp; +-- ...<br>
 
-Every S** folder represent a machine folder. In this folder must be subfolder for every measure point and type of measure. Most important thing is to download Data in the correct folder.
+Every S** folder represent a machine folder. In these folders must be a subfolder for every measure point and type of measure. Most important thing is to download Data in the correct folder or change the path in the "Project Argus.ipynb" notebook.
 
 For Deep Learning the next folders are used in Google Drive.
 
